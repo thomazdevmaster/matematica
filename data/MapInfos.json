@@ -7,7 +7,7 @@ null,
 {"id":5,"expanded":true,"name":"MUNDO2","order":5,"parentId":0,"scrollX":710.6666666666666,"scrollY":389.3333333333333},
 {"id":6,"expanded":true,"name":"Acampamento Nômade","order":6,"parentId":5,"scrollX":816,"scrollY":534.2222222222222},
 {"id":7,"expanded":true,"name":"MUNDO3","order":11,"parentId":0,"scrollX":710.6666666666666,"scrollY":389.3333333333333},
-{"id":8,"expanded":true,"name":"Favela","order":12,"parentId":7,"scrollX":718.6666666666666,"scrollY":698.6666666666666},
+{"id":8,"expanded":true,"name":"Favela","order":12,"parentId":7,"scrollX":856.3636363636364,"scrollY":592.3636363636364},
 {"id":9,"expanded":true,"name":"MUNDO4","order":15,"parentId":0,"scrollX":525,"scrollY":292},
 {"id":10,"expanded":true,"name":"Cidade Normal","order":16,"parentId":9,"scrollX":1131.2727272727273,"scrollY":1028.7272727272727},
 {"id":11,"expanded":true,"name":"MUNDO5","order":19,"parentId":0,"scrollX":525,"scrollY":292},
@@ -18,6 +18,6 @@ null,
 {"id":16,"expanded":false,"name":"Casa 1","order":8,"parentId":6,"scrollX":710.6666666666666,"scrollY":389.3333333333333},
 {"id":17,"expanded":false,"name":"barracaTecido","order":9,"parentId":6,"scrollX":712,"scrollY":414.6666666666667},
 {"id":18,"expanded":false,"name":"ferreiro","order":10,"parentId":6,"scrollX":697.7777777777778,"scrollY":361.77777777777777},
-{"id":19,"expanded":false,"name":"Loja de Itens","order":13,"parentId":8,"scrollX":710.6666666666666,"scrollY":389.3333333333333},
-{"id":20,"expanded":false,"name":"Garagem","order":14,"parentId":8,"scrollX":710.6666666666666,"scrollY":389.3333333333333}
+{"id":19,"expanded":false,"name":"Loja de Itens","order":13,"parentId":8,"scrollX":865.0909090909091,"scrollY":439.6363636363636},
+{"id":20,"expanded":false,"name":"Garagem","order":14,"parentId":8,"scrollX":865.0909090909091,"scrollY":439.6363636363636}
 ]
